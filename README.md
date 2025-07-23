@@ -66,7 +66,7 @@ your_project/
 
 ## Requirements
 
-* Python 3.x
+* Python 3.10
 * Pillow (`pip install pillow`)
 
 ---
@@ -74,5 +74,10 @@ your_project/
 ## Need Help?
 
 If you have questions or issues, feel free to ask!
+
+
+---
+
+**Made with ❤️ by [Froas](https://github.com/Froas)**
 
 ---
